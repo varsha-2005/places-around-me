@@ -189,6 +189,8 @@ Tamilnadu, India.</h3>
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/119288183/213878728-e0d6048a-60c2-4087-aee0-7ff3614a178e.png)
 
+###html validator :
+![Screenshot (20)](https://user-images.githubusercontent.com/119288183/213878807-2db3794b-534a-4465-af40-f4e43d591d01.png)
 
 ## Result:
 successfully created the website having five location linked to it .
